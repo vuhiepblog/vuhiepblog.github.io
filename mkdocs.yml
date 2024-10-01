@@ -1,7 +1,7 @@
-site_name: thienqc
-site_description: thienqc's blog
-site_url: https://thienqc.github.io/blog/
-site_author: thienqc
+site_name: hiep
+site_description: hiep's blog
+site_url: https://vuhiepblog.github.io/
+site_author: hiep
 
 theme:
     name: material
@@ -27,15 +27,15 @@ theme:
           name: Switch to light mode
       - media: "(prefers-color-scheme: light)"
         scheme: default
-        primary: indigo
-        accent: indigo
+        primary: pink
+        accent: pink
         toggle:
           icon: material/toggle-switch
           name: Switch to dark mode
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
-        primary: black
-        accent: indigo
+        primary: amber
+        accent: amber
         toggle:
           icon: material/toggle-switch-off
           name: Switch to system preference
@@ -102,9 +102,9 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/yds.thienqc/
+      link: https://www.facebook.com/vanhiep.vu.75/
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/thienqc/
+      link: https://www.instagram.com/hiepdc228/
   analytics:
     provider: google
     property: G-WQ6QJ2DK27
