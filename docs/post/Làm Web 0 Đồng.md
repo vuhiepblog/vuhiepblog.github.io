@@ -12,7 +12,7 @@ comments: true
 ---
 ## **1. Chuẩn bị**
 
-- [Tài khoản github] [](https://github.com/)
+- [Tài khoản github](https://github.com/)
 - [App Github Desktop](https://desktop.github.com/download/)
 - [App Visual Studio Code](https://code.visualstudio.com/)
 - [Obsidian](https://obsidian.md/)
