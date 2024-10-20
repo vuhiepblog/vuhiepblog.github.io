@@ -14,7 +14,7 @@ comments: true
 
 <iframe width="560" height="315" src="https://youtu.be/0n3qe02Vjmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-[](https://youtu.be/0n3qe02Vjmo)
+[![Let's Learn Git Together](http://img.youtube.com/vi/r8jQ9hVA2qs/0.jpg)](http://www.youtube.com/watch?v=r8jQ9hVA2qs "Let's Learn Git Together")
 ## **2. Phần mềm sử dụng**
 ### **Zotero**
 - Dịch văn bản rồi tạo Note
