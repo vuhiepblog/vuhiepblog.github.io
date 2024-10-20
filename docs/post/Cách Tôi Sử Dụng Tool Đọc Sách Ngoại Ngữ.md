@@ -12,8 +12,9 @@ comments: true
 ---
 ## **1. Video**
 
-<iframe width="560" height="315" src="https://youtu.be/0n3qe02Vjmo" title="YouTube video player" frameborder="0" allow="accelerometer; auto_play=false; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/0n3qe02Vjmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[](https://youtu.be/0n3qe02Vjmo)
 ## **2. Phần mềm sử dụng**
 ### **Zotero**
 - Dịch văn bản rồi tạo Note
