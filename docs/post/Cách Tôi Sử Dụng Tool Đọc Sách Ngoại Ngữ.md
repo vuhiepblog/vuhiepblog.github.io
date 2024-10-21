@@ -4,7 +4,7 @@ aliases:
   - Cách Tôi Sử Dụng Tool Đọc Sách Ngoại Ngữ
 description: 
 tags:
-  - knewledge
+  - knowledge
 date: 2024-10-20
 URL: 
 share: true
