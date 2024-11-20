@@ -1,6 +1,7 @@
 ---
 filename: 
-aliases: 
+aliases:
+  - 27 Ngày Viết - Ngày 1
 description: 
 tags:
   - content_5am
