@@ -1,5 +1,5 @@
 ---
-filename: nam-cai-ta-muon-buong-xuong-khi-can
+filename: nam_cai_ta_muon_buong_xuong_khi_can
 aliases:
   - Nắm Cái Ta Muốn, Buông Xuống Khi Cần
 description: 
@@ -11,6 +11,8 @@ share: true
 comments: true
 ---
 ![](https://lh3.googleusercontent.com/pw/AP1GczOfjyqTdinSgg5QXtHceXTfxPgEp_S16hhUnDyjDm9ZWCqEDFvL4i-Valmz7yc73irztZu2Z-4AqGogIygKM02Rdw4wKTgClJe7dj4cAVTt1IfzqcjBNLgx314qg00SiltDOq0I4N-A2gdQm4EqGXWN=w494-h879-s-no-gm?authuser=0)
+
+# Nắm Cái Ta Muốn, Buông Xuống Khi Cần
 
 Đủ nắng hoa sẽ nở, đủ yêu thương hạnh phúc sẽ đong đầy.
 
