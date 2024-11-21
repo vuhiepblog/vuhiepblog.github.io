@@ -14,13 +14,13 @@ comments: true
 
 ## Điều Gì Quyết Định Cách Sống Của Bạn?
 
-Trải qua hơn 40 mùa hoa Phượng nở, sống theo cách luôn phóng chiếu ra bên ngoài theo con mắt của người khác nhìn mình như thế nào thì hôm nay nhìn lại, quay vào xem, ngắm, ngẫm nghĩ về bản thân thì đúc kết ra được rằng 40 mùa hoa Phượng rụng lá qua mình luôn sống với giá trị cốt lõi đó là : Bản thân được vui vẻ.
+Trải qua hơn 40 mùa hoa Phượng nở, sống theo cách luôn phóng chiếu ra bên ngoài theo con mắt của người khác nhìn mình như thế nào thì hôm nay nhìn lại, quay vào xem, ngắm, ngẫm nghĩ về bản thân thì đúc kết ra được rằng 40 mùa hoa Phượng rụng lá qua mình luôn sống với giá trị cốt lõi đó là : **BẢN THÂN ĐƯỢC VUI VẺ**.
 
-Hồi tiểu học từ lúc bài vẽ được điểm cao, nhỏ bạn ngồi cạnh khen thì bắt đầu vẽ nhiều, càng vẽ vàng thấy vui, vẽ xong cắt ra dán đầy lên tường.
+Hồi tiểu học từ lúc bài vẽ được điểm cao, nhỏ bạn ngồi cạnh khen thì bắt đầu vẽ nhiều, càng vẽ càng thấy vui, vẽ xong cắt ra dán đầy lên tường.
 
 Cuối cấp 2 bắt đầu bước vào thế giới truyện kiếm hiệp, chìm đắm trong những nhân vật anh hùng võ công cái thế. Đọc thâu đêm suốt sáng đến lúc bị mẹ mắng cũng kệ.
 
-Những năm cấp 3 tiếp xúc với thế giới internet, chat chit yahoo, game online rồi cuốn mình vào đến mức có đồng nào bố cho ăn sắng cũng đem nướng hết.
+Những năm cấp 3 tiếp xúc với thế giới internet, chat chit yahoo, game online rồi cuốn mình vào đến mức có đồng nào bố cho ăn sáng cũng đem nướng hết.
 
 Học cao đẳng bắt đầu có bạn gái. Lúc này cô ấy là nhất. Bình thường ngủ say ai gọi cũng không dậy nhưng chỉ cần nghe thấy tiếng điện thoại bạn gái gọi là bật dậy như tôm.
 
