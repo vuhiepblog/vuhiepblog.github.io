@@ -1,7 +1,7 @@
 ---
-filename: 27_ngay_viet_ngay_1
+filename: 27_ngay_viet_ngay_01
 aliases:
-  - 27 Ngày Viết - Ngày 1
+  - 27 Ngày Viết - Ngày 01
 description: 
 tags:
   - content_5am
@@ -10,7 +10,7 @@ URL:
 share: true
 comments: true
 ---
-# 27 Ngày Viết - Ngày 1
+# 27 Ngày Viết - Ngày 01
 
 Lâu lắm rồi tôi mới lại thức dậy sớm hơn 5 giờ sáng. Hôm nay tôi dậy lúc 5 giờ kém 15 phút để tham gia khóa học viết diễn ra liên tục trong 27 ngày. Tôi không gặp khó khăn gì với việc dậy sớm lúc 5 giờ vì hằng ngày tôi thường cũng dậy tầm này để đọc sách, chờ đến giờ gọi trẻ con dậy, xuống nhà cho mèo ăn, vệ sinh cá nhân rồi chở trẻ con đến trường. Cũng có lúc dậy đọc sách nhưng lại bị cuốn vào việc lướt mạng xã hội rồi chẳng đọc được chữ nào trong sách. 
 

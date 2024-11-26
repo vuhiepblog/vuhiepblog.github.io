@@ -1,7 +1,7 @@
 ---
-filename: 27_ngay_viet_ngay_3
+filename: 27_ngay_viet_ngay_03
 aliases:
-  - 27 Ngày Viết - Ngày 3
+  - 27 Ngày Viết - Ngày 03
 description: 
 tags:
   - content_5am
@@ -10,7 +10,7 @@ URL:
 share: true
 comments: true
 ---
-# 27 Ngày Viết - Ngày 3
+# 27 Ngày Viết - Ngày 03
 
 ## Giá Trị Nào Tạo Nên Tôi?
 

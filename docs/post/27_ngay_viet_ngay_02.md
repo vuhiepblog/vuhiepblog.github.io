@@ -1,7 +1,7 @@
 ---
-filename: 27_ngay_viet_ngay_2
+filename: 27_ngay_viet_ngay_02
 aliases:
-  - 27 Ngày Viết - Ngày 2
+  - 27 Ngày Viết - Ngày 02
 description: 
 tags:
   - content_5am
@@ -10,7 +10,7 @@ URL:
 share: true
 comments: true
 ---
-# 27 Ngày Viết - Ngày 2
+# 27 Ngày Viết - Ngày 02
 
 ## Điều Gì Quyết Định Cách Sống Của Bạn?
 

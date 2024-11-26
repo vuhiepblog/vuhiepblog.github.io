@@ -1,7 +1,7 @@
 ---
-filename: 27_ngay_viet_ngay_4
+filename: 27_ngay_viet_ngay_04
 aliases:
-  - 27 Ngày Viết - Ngày 4
+  - 27 Ngày Viết - Ngày 04
 description: 
 tags:
   - content_5am
@@ -10,7 +10,7 @@ URL:
 share: true
 comments: true
 ---
-# 27 Ngày Viết - Ngày 4
+# 27 Ngày Viết - Ngày 04
 
 ## Nhật Ký Biết Ơn
 

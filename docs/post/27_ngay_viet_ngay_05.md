@@ -1,7 +1,7 @@
 ---
-filename: 27_ngay_viet_ngay_5
+filename: 27_ngay_viet_ngay_05
 aliases:
-  - 27 Ngày Viết - Ngày 5
+  - 27 Ngày Viết - Ngày 05
 description: 
 tags:
   - content_5am
@@ -10,7 +10,7 @@ URL:
 share: true
 comments: true
 ---
-# 27 Ngày Viết - Ngày 5
+# 27 Ngày Viết - Ngày 05
 
 ## Ngày 5 - Bánh Xe Cuộc Đời
 
